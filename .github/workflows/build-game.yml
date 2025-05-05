@@ -59,7 +59,7 @@ jobs:
           haxelib git openfl https://github.com/FunkinCrew/openfl
           haxelib git flixel https://github.com/FunkinCrew/flixel
           haxelib git flixel-text-input https://github.com/FunkinCrew/flixel-text-input
-          haxelib git flixel-addons https://github.com/FunkinCrew/flixel-addons
+          haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons
           haxelib git funkin.vis https://github.com/FunkinCrew/funkVis
           haxelib git grig.audio https://gitlab.com/haxe-grig/grig.audio.git
           haxelib git haxeui-core https://github.com/haxeui/haxeui-core

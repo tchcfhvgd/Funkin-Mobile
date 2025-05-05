@@ -4,21 +4,21 @@
       "name": "FlxPartialSound",
       "type": "git",
       "dir": null,
-      "ref": "41f35ddb1eb9d10bc742e6f8b5bcc62f9ef8ad84",
-      "url": "https://github.com/FunkinCrew/FlxPartialSound.git"
+      "ref": "main",
+      "url": "https://github.com/FunkinDroidTeam/FlxPartialSound"
     },
     {
       "name": "flixel",
       "type": "git",
       "dir": null,
-      "ref": "fffb1a74cf08f63dacc2ab09976340563f5b6e6d",
-      "url": "https://github.com/FunkinCrew/flixel"
+      "ref": "dev-6.0.0-latest",
+      "url": "https://github.com/FunkinDroidTeam/flixel"
     },
     {
       "name": "flixel-addons",
       "type": "git",
       "dir": null,
-      "ref": "b9118f47f43a66bc0e5fbfcfd9903f0425e918ee",
+      "ref": "dev-funkin-latest",
       "url": "https://github.com/FunkinCrew/flixel-addons"
     },
     {
@@ -119,6 +119,11 @@
       "version": "2.1.2"
     },
     {
+      "name": "extension-androidtools",
+      "type": "haxelib",
+      "version": "2.1.1"
+    },
+    {
       "name": "json2object",
       "type": "git",
       "dir": null,
@@ -143,8 +148,8 @@
       "name": "lime",
       "type": "git",
       "dir": null,
-      "ref": "be81ad7e4e1a92c3482bcc009648a4ac892cfa35",
-      "url": "https://github.com/FunkinCrew/lime"
+      "ref": "dev-funkin-arm64",
+      "url": "https://github.com/FunkinDroidTeam/lime"
     },
     {
       "name": "mconsole",
@@ -185,8 +190,8 @@
       "name": "openfl",
       "type": "git",
       "dir": null,
-      "ref": "d061c936b462f040304ec2bd42d9f59d2e59e285",
-      "url": "https://github.com/FunkinCrew/openfl"
+      "ref": "dev-funkin",
+      "url": "https://github.com/FunkinDroidTeam/openfl"
     },
     {
       "name": "polymod",

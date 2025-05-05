@@ -55,9 +55,9 @@ jobs:
           haxelib setup ~/haxelib
           haxelib git hxcpp https://github.com/HaxeFoundation/hxcpp
           haxelib git lime https://github.com/FunkinDroidTeam/lime
-          haxelib git FlxPartialSound https://github.com/FunkinCrew/FlxPartialSound.git
-          haxelib git openfl https://github.com/FunkinCrew/openfl
-          haxelib git flixel https://github.com/FunkinCrew/flixel
+          haxelib git FlxPartialSound https://github.com/FunkinDroidTeam/FlxPartialSound
+          haxelib git openfl https://github.com/FunkinDroidTeam/openfl
+          haxelib git flixel https://github.com/FunkinDroidTeam/flixel
           haxelib git flixel-text-input https://github.com/FunkinCrew/flixel-text-input
           haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons
           haxelib git funkin.vis https://github.com/FunkinCrew/funkVis

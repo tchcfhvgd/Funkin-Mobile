@@ -77,7 +77,7 @@ jobs:
           haxelib git mockatoo https://github.com/FunkinCrew/mockatoo
           haxelib git munit https://github.com/FunkinCrew/MassiveUnit
           haxelib git newgrounds https://github.com/Geokureli/Newgrounds
-          haxelib git polymod https://github.com/larsiusprime/polymod
+          haxelib git polymod https://github.com/Vortex2Oblivion/scriptless-polymod
           haxelib git thx.core https://github.com/fponticelli/thx.core
           haxelib git thx.semver https://github.com/fponticelli/thx.semver
           haxelib install hxvlc 2.1.2
